@@ -1,0 +1,22 @@
+h1
+{
+  color:yellow;
+  font-family: sans-serif;
+  font-style: italic;
+}
+h2
+{
+color: blue;
+}
+body {
+  color: black;
+  font-family: sans-serif;
+  background-image:url(nature.jpg);
+
+}
+#container {
+  color: pink;
+  background-color: pink;
+  height: 600px;
+  width: 600px;
+}
